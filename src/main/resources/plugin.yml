@@ -1,0 +1,8 @@
+name: Kritex
+version: '1.0'
+main: ac.kritex.Kritex
+api-version: '1.19'
+depend:
+  - ProtocolLib
+authors: [ TheRealAlzore ]
+description: Reliable And Fast AntiCheat Solution

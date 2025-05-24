@@ -1,0 +1,7 @@
+flag-message: "&c[&4Kritex&c] &7%player% failed %check% [%type%] (VL: %vl%)"
+
+FlightA:
+  enabled: true
+  violation: 5
+  setback: true
+  punishment: "kick %player% Cheating (FlightA)"
